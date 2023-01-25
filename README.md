@@ -4,7 +4,7 @@ Mobilná aplikacia v ktorej je hlavným cieľom použivateľovy pripomenuť kto 
 
 Link na video z aplikacie:
 
-https://www.youtube.com/watch?v=0K83Sn2N4bE
+https://www.youtube.com/watch?v=woYWqxvofeU
 
 ## Technológie 
 
